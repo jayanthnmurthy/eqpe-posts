@@ -1,4 +1,4 @@
-###### tags: `tutorial` `jay`  
+###### tags: `sample-note` `jay`  
 
 # First note for equipoise.one
 
