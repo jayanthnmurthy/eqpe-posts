@@ -1,2 +1,0 @@
-This is the first file within this directory.
-Sets this directory active on git.
