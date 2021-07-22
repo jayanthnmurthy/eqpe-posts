@@ -4,8 +4,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 ### About
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150px" height="150px" 
-/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150px" height="150px" />
 
 
  - *This is is a sample markdown file to learn how stackedit works with github repositories.*
@@ -13,6 +12,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzEzMDkyOSwxNjUxNjg4NzU4LDkwNz
-Y5NDMwMF19
+eyJoaXN0b3J5IjpbMzgwNjU0MDUsMTY1MTY4ODc1OCw5MDc2OT
+QzMDBdfQ==
 -->
