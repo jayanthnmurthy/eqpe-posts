@@ -1,4 +1,5 @@
-###### tags: `sample-note` `jay`  
+[![hackmd-github-sync-badge](https://hackmd.io/tcFTi_m6Q3qM7dDsfMeRVQ/badge)](https://hackmd.io/tcFTi_m6Q3qM7dDsfMeRVQ)
+###### tags: `tutorial` `jay`  
 
 # First note for equipoise.one
 
