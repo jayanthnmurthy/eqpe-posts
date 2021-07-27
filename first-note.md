@@ -21,7 +21,7 @@ Jot your thoughts with a new note;
 
 ## Adding images
 Images can be added like so - 
-<img    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"    width="100px" height="100px"/> 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100px" height="100px"/> 
 Neat isn't it?
 
 ---
@@ -29,7 +29,7 @@ Neat isn't it?
 ```
 tags are added using a pair of back-ticks,  
 this( ` ), not this ( ' ), 
-the key containing ~ on a US keyboard
+the key containing ~ on a US keyboard (next to ~ on android) 
 
 example:
 ###### tags: `mechanics-of-joy`
